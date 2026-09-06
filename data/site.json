@@ -1,1 +1,332 @@
-PLACEHOLDER
+{
+  "brand": {
+    "zh": "FitForge Studio",
+    "en": "健身教練樣板",
+    "tagline": "FitForge Studio｜健身教練樣板"
+  },
+  "theme": {
+    "bg": "#0b0d0c",
+    "surface": "#141816",
+    "surface2": "#1c221e",
+    "ink": "#f3f6f1",
+    "muted": "rgba(243, 246, 241, 0.62)",
+    "lime": "#b8f53a",
+    "limeDark": "#8fc41f",
+    "teal": "#1ee0c4",
+    "whatsapp": "#25d366",
+    "line": "rgba(184, 245, 58, 0.18)"
+  },
+  "meta": {
+    "title": "FitForge Studio｜健身教練樣板示範 — 電商易網站模板 DEMO",
+    "description": "電商易（EshopEasy）網站樣板示範：虛構品牌 FitForge Studio。展示香港獨立健身教練網站結構、明碼套餐與 WhatsApp 查詢。非真實營業、非已簽約客戶案例。"
+  },
+  "contact": {
+    "title": "健身教練（樣板示範）",
+    "phoneDigits": "85291234567",
+    "phoneDisplay": "9123 4567",
+    "waDefaultText": "您好，想了解 FitForge Studio 課程（樣板示範查詢）",
+    "tagline": "樣板示範 · 虛構品牌 · 非真實營業",
+    "demoNote": "DEMO 電話｜樣板示範用，請替換為真實 WhatsApp",
+    "area": "香港（場地可自訂）",
+    "hours": "平日 07:00–21:00｜週末 09:00–18:00（DEMO）"
+  },
+  "hero": {
+    "eyebrow": "樣板示範 · 虛構品牌 FitForge",
+    "title": "FitForge Studio｜健身教練樣板",
+    "lede": "此為電商易（EshopEasy）網站樣板示範，品牌 FitForge Studio 為虛構佔位。展示獨立健身教練網站常見結構：明碼套餐、教練介紹與 WhatsApp 一鍵查詢。流動裝置優先，無需後台即可預覽。",
+    "chips": [
+      "明碼實價",
+      "無需年約",
+      "可先試堂",
+      "WhatsApp 即約"
+    ]
+  },
+  "trust": [
+    {
+      "title": "明碼實價",
+      "body": "套餐收費公開列出，無隱藏年費"
+    },
+    {
+      "title": "無需年約",
+      "body": "按堂／套票彈性選擇，無綁約壓力"
+    },
+    {
+      "title": "可先試堂",
+      "body": "私人教練及拳擊堂設試堂價"
+    }
+  ],
+  "featuredIds": [
+    "pt",
+    "boxing-private",
+    "group-fatloss"
+  ],
+  "packages": [
+    {
+      "id": "pt",
+      "category": "私人訓練",
+      "nameZh": "私人教練堂",
+      "nameEn": "Personal Training",
+      "icon": "dumbbell",
+      "badge": "最受歡迎",
+      "featured": true,
+      "summary": "一對一私人訓練，按目標訂立計劃（減脂／增肌／體能）。",
+      "tiers": [
+        {
+          "label": "試堂",
+          "price": "580",
+          "note": ""
+        },
+        {
+          "label": "單堂",
+          "price": "670",
+          "note": ""
+        },
+        {
+          "label": "10 堂",
+          "price": "5,990",
+          "note": "$599／堂"
+        },
+        {
+          "label": "20 堂",
+          "price": "11,200",
+          "note": "$560／堂"
+        }
+      ],
+      "bullets": [
+        "一對一私人教練",
+        "動作教學＋進度跟進",
+        "可先試堂了解風格",
+        "場地／時段可協商"
+      ],
+      "waText": "您好，想查詢【私人教練堂】套餐（試堂 $580／單堂 $670／10堂 $5,990／20堂 $11,200）— 樣板示範"
+    },
+    {
+      "id": "group-fatloss",
+      "category": "團體班",
+      "nameZh": "團體減肥班",
+      "nameEn": "Group Fat-Loss",
+      "icon": "group",
+      "badge": "小班 ≤8 人",
+      "featured": true,
+      "summary": "小班制團體減肥訓練，氣氛好又有指導，性價比高。",
+      "tiers": [
+        {
+          "label": "單堂",
+          "price": "230",
+          "note": ""
+        },
+        {
+          "label": "10 堂",
+          "price": "2,070",
+          "note": ""
+        },
+        {
+          "label": "20 堂",
+          "price": "3,680",
+          "note": ""
+        }
+      ],
+      "bullets": [
+        "小班制 ≤8 人",
+        "減脂導向循環訓練",
+        "適合初學者至中階",
+        "可與營養顧問加購"
+      ],
+      "waText": "您好，想查詢【團體減肥班】（單堂 $230／10堂 $2,070／20堂 $3,680）— 樣板示範"
+    },
+    {
+      "id": "boxing-private",
+      "category": "搏擊",
+      "nameZh": "私人拳擊／泰拳堂",
+      "nameEn": "Private Boxing / Muay Thai",
+      "icon": "glove",
+      "badge": "高燃脂",
+      "featured": true,
+      "summary": "一對一拳擊或泰拳技術訓練，同時高效燃脂與減壓。",
+      "tiers": [
+        {
+          "label": "試堂",
+          "price": "650",
+          "note": ""
+        },
+        {
+          "label": "單堂",
+          "price": "760",
+          "note": ""
+        },
+        {
+          "label": "10 堂",
+          "price": "6,750",
+          "note": "$675／堂"
+        },
+        {
+          "label": "20 堂",
+          "price": "12,600",
+          "note": "$630／堂"
+        }
+      ],
+      "bullets": [
+        "私人拳擊或泰拳",
+        "技術＋體能雙軌",
+        "設試堂體驗",
+        "手套可租借（DEMO）"
+      ],
+      "waText": "您好，想查詢【私人拳擊／泰拳堂】（試堂 $650／單堂 $760／10堂 $6,750／20堂 $12,600）— 樣板示範"
+    },
+    {
+      "id": "boxing-group",
+      "category": "搏擊團體",
+      "nameZh": "團體拳擊泰拳減肥班",
+      "nameEn": "Group Boxing / Muay Thai",
+      "icon": "fire",
+      "badge": "",
+      "featured": false,
+      "summary": "團體拳擊／泰拳減肥班；單堂靈活，或月費任上（約每週 3 堂／每月約 12 堂）。",
+      "tiers": [
+        {
+          "label": "單堂",
+          "price": "230",
+          "note": ""
+        },
+        {
+          "label": "10 堂",
+          "price": "2,070",
+          "note": ""
+        },
+        {
+          "label": "月費任上",
+          "price": "1,980",
+          "note": "約每週 3 堂／每月約 12 堂"
+        }
+      ],
+      "bullets": [
+        "拳擊／泰拳減肥",
+        "單堂或月費任上",
+        "月費約每週 3 堂／每月約 12 堂",
+        "適合想堅持上堂的學員"
+      ],
+      "waText": "您好，想查詢【團體拳擊泰拳減肥班】（單堂 $230／10堂 $2,070／月費任上 $1,980＝約每週3堂／每月約12堂）— 樣板示範"
+    }
+  ],
+  "nutrition": {
+    "id": "nutrition",
+    "nameZh": "營養顧問跟進",
+    "nameEn": "Nutrition Coaching",
+    "note": "任何訓練套餐可加購，亦可獨立報名營養跟進",
+    "summary": "配合訓練目標調整飲食。可加購於任何訓練套餐，亦可獨立報名：首次諮詢、覆診或每月跟進。",
+    "tiers": [
+      {
+        "label": "首次",
+        "price": "500",
+        "note": ""
+      },
+      {
+        "label": "覆診",
+        "price": "360",
+        "note": ""
+      },
+      {
+        "label": "每月跟進",
+        "price": "1,980",
+        "note": ""
+      }
+    ],
+    "bullets": [
+      "可加購於任何訓練套餐",
+      "亦可獨立報名（非團體班）",
+      "首次／覆診／每月跟進可選",
+      "飲食評估＋簡易執行方案"
+    ],
+    "waText": "您好，想查詢【營養顧問加購／可獨立報名】（首次 $500／覆診 $360／每月跟進 $1,980）— 可加購訓練套餐或獨立報名 — 樣板示範",
+    "sectionLabel": "營養顧問加購／可獨立報名",
+    "badge": "加購／可獨立報名"
+  },
+  "pricingFootnote": "定價參考香港市面私人教練／泰拳／營養諮詢公開報價（Toby、ATP、Pure、24/7 Fitness、Physical、KWOON、IMVICTUS、PRO360、Goji 等綜合平均）並定於平均線約低 10%；樣板僅供示範，實際可按場地／資歷調整。",
+  "coach": {
+    "kicker": "關於教練（樣板示範）",
+    "name": "教練名稱（虛構佔位）",
+    "role": "私人教練｜拳擊／泰拳｜營養顧問（樣板示範）",
+    "bio": "此為樣板示範簡介，品牌 FitForge 為虛構。請替換為真實教練背景：訓練理念、擅長項目（減脂、增肌、體能）、服務地區與時段。強調明碼實價、無需年約、歡迎試堂。",
+    "bio2": "示範文字：專注可持續訓練計劃，結合力量訓練與搏擊元素，並可加購營養跟進。本頁僅供電商易網站模板展示，並非真實營業或已簽約客戶。",
+    "certs": [
+      {
+        "code": "ACE",
+        "label": "ACE Certified（佔位）"
+      },
+      {
+        "code": "NASM",
+        "label": "NASM CPT（佔位）"
+      },
+      {
+        "code": "MT",
+        "label": "泰拳教練證書（佔位）"
+      },
+      {
+        "code": "NUT",
+        "label": "營養顧問證書（佔位）"
+      }
+    ],
+    "highlights": [
+      "一對一私人訓練",
+      "小班團體減肥",
+      "拳擊／泰拳",
+      "營養加購跟進"
+    ]
+  },
+  "contactSection": {
+    "heading": "WhatsApp 即約試堂（樣板）",
+    "body": "無需填寫表格。直接 WhatsApp 查詢即可。此號碼與品牌均為樣板示範佔位，請於 data/site.json 更換為您的資料。"
+  },
+  "footerTag": "FitForge Studio｜樣板示範 · 虛構品牌 · 電商易（EshopEasy）網站模板 DEMO · 非真實營業 · 非已簽約客戶",
+  "templateNote": "樣板示範：FitForge Studio 為虛構品牌，本站由電商易（EshopEasy）提供作為網站結構與定價呈現模板，並非真實營業中的健身工作室，亦不代表已簽約客戶案例。",
+  "results": {
+    "kicker": "虛構示範案例",
+    "heading": "減肥成功前後對比",
+    "lede": "以下卡片為虛構示範案例，僅供展示版面與文案結構。請勿視為真實學員成效。",
+    "disclaimer": "以上為虛構示範案例，僅供網站樣板展示，不代表真實成效。",
+    "items": [
+      {
+        "initials": "C.L.",
+        "kgLost": "8.2",
+        "weeks": "12",
+        "focus": "私人教練＋營養加購",
+        "quote": "以前唔敢著貼身衫，而家腰圍細咗，上堂都有信心。",
+        "beforeLabel": "前",
+        "afterLabel": "後",
+        "demoTag": "虛構示範案例"
+      },
+      {
+        "initials": "K.W.",
+        "kgLost": "6.5",
+        "weeks": "10",
+        "focus": "團體減肥班",
+        "quote": "小班氣氛好，每週有人一齊操，終於堅持到。",
+        "beforeLabel": "前",
+        "afterLabel": "後",
+        "demoTag": "虛構示範案例"
+      },
+      {
+        "initials": "M.T.",
+        "kgLost": "5.0",
+        "weeks": "8",
+        "focus": "拳擊／泰拳減肥",
+        "quote": "打完沙袋成身汗，減壓又減脂，試堂之後就報咗月費。",
+        "beforeLabel": "前",
+        "afterLabel": "後",
+        "demoTag": "虛構示範案例"
+      }
+    ]
+  },
+  "images": {
+    "logo": "assets/logo.svg",
+    "hero": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1400&q=80",
+    "heroCredit": "Photo via Unsplash",
+    "packages": {
+      "pt": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=80",
+      "group-fatloss": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=900&q=80",
+      "boxing-private": "https://images.unsplash.com/photo-1549719386-91bfb870bfea?auto=format&fit=crop&w=900&q=80",
+      "boxing-group": "https://images.unsplash.com/photo-1599058947026-7a75fb9c0c2b?auto=format&fit=crop&w=900&q=80"
+    },
+    "nutrition": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80"
+  }
+}
